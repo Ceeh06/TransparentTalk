@@ -1,0 +1,6 @@
+*{box-sizing:border-box}
+#waves-root{pointer-events:auto!important}
+#waves-root .pattern-waves{pointer-events:auto}
+.hero-inner{position:relative;z-index:2;pointer-events:none}
+#folder-root{isolation:isolate}
+#folder-root .folder-float-mount{width:100%}
