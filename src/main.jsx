@@ -10,8 +10,8 @@ function AppWaves() {
   return (
     <PatternWaves
       preset="silk"
-      color="#fff7f8"
-      backgroundColor="rgba(0,0,0,0)"
+      color="#ffffff"
+      backgroundColor="#000000"
       fade="edges"
       interactive
       cursorSize={50}
